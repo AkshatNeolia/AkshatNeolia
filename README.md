@@ -2,11 +2,7 @@
 <h3 align="center">🚀 DATA SCIENCE / ML Enthusiast | BTech Computer Science (IT) </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshatneolia&label=Profile%20views&color=0e75b6&style=flat" alt="akshatneolia" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding" width="400"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Coding" width="100%"/>
 </p>
 
 ## 🔗 About Me
@@ -67,19 +63,4 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatneolia&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatneolia&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatneolia&theme=react" alt="GitHub Activity Graph" />
 </p>
