@@ -7,7 +7,7 @@
 
 ## 🔗 About Me
 - 📧 **Contact me:** **neoliaakshat4@gmail.com**  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1KTtpUmqYDk4lSmqdEUSZgJSIC2ZxEUMj/view?usp=sharing)  
+- 📄 **Resume:** [View Here]([https://drive.google.com/file/d/1KTtpUmqYDk4lSmqdEUSZgJSIC2ZxEUMj/view?usp=sharing](https://drive.google.com/file/d/1hRNt2GaRAstA40M8Yy-omj-RvIesfQuu/view?usp=sharing))  
 - 💡 **Currently working on:** ML and Big Data projects  
 - ⚡ **Fun Fact:** I love exploring AI and optimizing ML models  
 
