@@ -7,7 +7,7 @@
 
 ## 🔗 About Me
 - 📧 **Contact me:** **neoliaakshat4@gmail.com**  
-- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1hRNt2GaRAstA40M8Yy-omj-RvIesfQuu/view?usp=sharing)  
+- 📄 **Resume:** [View Here](https://drive.google.com/file/d/1M4oPX1bTniBOJXR71XRksgrPHK33hkrS/view?usp=sharing)  
 - 💡 **Currently working on:** ML and Data Science projects  
 - ⚡ **Fun Fact:** I love exploring AI Tools and optimizing ML models  
 
@@ -21,7 +21,7 @@
   <a href="https://www.hackerrank.com/an1752" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
   </a>
-  <a href="https://www.leetcode.com/neoliaakshat4" target="blank">
+  <a href="https://leetcode.com/u/AkshatNeolia24/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/akshatneolia24" target="blank">
